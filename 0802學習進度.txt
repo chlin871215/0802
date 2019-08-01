@@ -1,0 +1,2 @@
+學習運用android studio+PHP+mysql傳遞資料
+https://devildemon20100423.blogspot.com/2018/11/android-studio-mysqllistview.html
